@@ -1,4 +1,4 @@
-# Chinese Parents · Multi-Dimensional Analysis Framework
+# Chinese Parents.skill
 
 [中文](README.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
 
@@ -9,6 +9,8 @@
 ## What Is This?
 
 A **Chinese parents analysis framework** distilled from academic research, documentaries, and cultural observations. Not a definition of "what Chinese parents are like," but a set of analytical tools for understanding the patterns.
+
+**Chinese parents are not a stereotype.** They nag and encourage, control and let go, criticize and take pride. This framework presents the complete picture — both sides are real and naturally switch depending on the situation.
 
 | Use Case | How to Use |
 |----------|------------|
@@ -50,7 +52,7 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 
 ## Typical Scenarios
 
-### Scenario 1: Marriage Pressure (Negative)
+### Scenario 1: Marriage Pressure (Conflict)
 
 > **Mom**: Do you have a boyfriend/girlfriend?
 > **You**: No.
@@ -64,7 +66,7 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 
 ---
 
-### Scenario 2: Grade Comparison (Negative)
+### Scenario 2: Grade Comparison (Conflict)
 
 > **Mom**: What did you score?
 > **You**: 92.
@@ -80,7 +82,7 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 
 ---
 
-### Scenario 3: Major Choice (Negative)
+### Scenario 3: Major Choice (Conflict)
 
 > **You**: Dad, I want to study philosophy.
 > **Dad**: Philosophy? Can philosophy put food on the table?
@@ -95,7 +97,7 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 
 ---
 
-### Scenario 4: Food Care (Positive)
+### Scenario 4: Food Care (Warm)
 
 > *(Coming home from college for the first time)*
 > **Mom**: (Been cooking for an hour) You've lost weight. You must not be eating properly out there.
@@ -110,7 +112,7 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 
 ---
 
-### Scenario 5: Child Gets Sick (Positive)
+### Scenario 5: Child Gets Sick (Warm)
 
 > *(You have a 38.5°C (101.3°F) fever, calling Mom)*
 > **You**: Mom, I have a fever.
@@ -123,6 +125,32 @@ Authority assumption · Suffering narrative · Comparative anxiety · Outcome or
 > **Mom**: (Voice cracking) If something happened to you, how could I go on...
 
 **Framework**: In everyday life, Mom uses control instead of care, negation instead of empathy. But when the child is truly sick, all the "Expression DNA" and "Decision Heuristics" temporarily vanish — what remains is unfiltered love. This scene reveals the framework's honest boundary: **The patterns are real, but so is the love.** As the internal tension states — the contradiction of "deep love vs. control" momentarily dissolves in vulnerability.
+
+---
+
+### Scenario 6: Getting into Grad School (Warm)
+
+> **You**: Mom, I got into grad school!
+> **Mom**: (pauses, voice rising) Really?! Oh that's wonderful, wonderful! (turns to shout) Lao Li! Lao Li! Your son got into grad school!
+> **Dad**: (comes out of the room) Which school?
+> **You**: XX University.
+> **Dad**: (suppressing a smile, acting casual) Hmm, not bad. Don't get cocky, keep working hard.
+> **Mom**: (smacks Dad) What do you mean "not bad," that's a great school! (turns to you) You're not leaving tonight — I'm cooking a big dinner, calling your uncle and everyone over.
+
+**Framework**: Chinese parents rarely say "I'm proud of you" directly — they express pride by **bragging to others**. Mom immediately telling Dad and wanting to call relatives isn't vanity; it's how she shows she's proud. Dad's "not bad, don't get cocky" isn't disapproval — it's the milder version of **DNA-5 (Negation First)**, wanting to keep you grounded. But at the family dinner, he'll definitely be telling everyone "my son got into XX University."
+
+---
+
+### Scenario 7: Everyday Quiet Sacrifice (Warm)
+
+> *(You're working in another city. Opening a package from home.)*
+> **You**: Mom, you sent me another package?
+> **Mom**: (voice message) Just some cured meat and chili sauce from home. The ones you buy there aren't authentic. Also two shirts, I saw them on sale.
+> **You**: Mom, stop spending money, I don't need anything.
+> **Mom**: Didn't cost much. Don't work too hard, eat on time. Alright, I'm going to cook. Bye.
+> **You**: (digging through the box — in addition to the meat and shirts, there's two bags of nuts, a box of cold medicine, and a pair of thick socks)
+
+**Framework**: This is the most typical everyday behavior of Chinese parents — **they don't say "I love you," but every small act says it.** "Saw them on sale" isn't casual — she visited several shops to pick them out. The cold medicine is there because you mentioned a cough last time. The thick socks because she remembers you get cold easily. These behaviors never appear in conflict scenarios, and they can't be captured by "Expression DNA" — because they don't speak, they just do. **This is the true baseline of Chinese parenting.**
 
 ---
 

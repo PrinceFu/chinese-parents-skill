@@ -1,4 +1,4 @@
-# 中国式父母.skil
+# 中国式父母.skill
 
 [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
 

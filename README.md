@@ -1,4 +1,4 @@
-# 中国式父母 · 多维分析框架
+# 中国式父母0skil
 
 [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
 
